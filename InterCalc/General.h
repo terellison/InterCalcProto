@@ -1,3 +1,6 @@
+// Helper classes for general functions; Addition, Subtraction, Multiplication, Division
+
+
 #pragma once
 
 #include "stdafx.h"
